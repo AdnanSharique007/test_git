@@ -1,4 +1,6 @@
 # test_git
+First edit in bash.
+
 This directory tests the Git Features
 
 git init
